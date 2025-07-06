@@ -1,0 +1,9 @@
+pyrofork
+tgcrypto
+bs4
+feedparser
+lxml
+motor
+psutil
+requests
+aiohttp
